@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "laravel",
+      "description": "Laravel and PHP skill files for Claude Code: TALL stack (Livewire, Alpine.js, Tailwind), API conventions, DTOs, Livewire Tables, Prism LLM integration, Sail workflow, and PHP 8.3 standards.",
+      "version": "1.0.0",
+      "repository": "https://github.com/darkmodesyndicate/claude-laravel"
+    }
+  ]
+}
